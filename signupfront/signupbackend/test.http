@@ -1,0 +1,14 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "firstName" : "Kavindu",
+    "lastName" : "Perera",
+    "userName" : "kavinduperera",
+    "email" : "kavindu.dperera@gmail.com",
+    "password" : "admin",
+    "dateOfBirth" : "05/03/98",
+    "mobile" : "0716184862",
+    "Status" : "1",
+    "accountType" : "1"
+}
